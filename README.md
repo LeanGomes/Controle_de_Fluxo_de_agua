@@ -31,7 +31,7 @@ Como objetivo foi definido o desenvolvimento de um hardware que identifica possi
 - Arduino/C++
 - Python
 ## *Banco de Dados:*
-- MondoDB
+- MongoDB
 
 
 
